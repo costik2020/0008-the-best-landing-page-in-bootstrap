@@ -13,6 +13,7 @@ I used assets and pictures from:
 - Inspired myself from other Motorcycle websites  
 - Stock Up
 
+And I edited and processed some pictures with GIMP photoshop software.
 
 I named the motorcycle repair shop MOTOSTAR* because I thought it sounds good as a repair shop name.
 
