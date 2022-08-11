@@ -11,10 +11,11 @@ I used assets and pictures from:
 - Pexels  
 - Gumtree adds   
 - Inspired myself from other Motorcycle websites  
+- Stock Up
 
 
-I named the motorcycle repair shop MOTOSTAR* because I thought it sounds good as a repair shop name. 
-     
+I named the motorcycle repair shop MOTOSTAR* because I thought it sounds good as a repair shop name.
+
 
 Below is a screenshot of the **hero** area of the my website:
 
